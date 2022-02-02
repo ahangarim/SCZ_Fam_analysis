@@ -6,8 +6,6 @@ GenomicSEM: https://github.com/GenomicSEM/GenomicSEM
 
 PRS-CS: https://github.com/getian107/PRScs
 
-MiXeR: https://github.com/precimed/mixer
-
 LDSC: https://github.com/bulik/ldsc
 
 GMMAT: https://github.com/hanchenphd/GMMAT
